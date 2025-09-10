@@ -11,3 +11,6 @@ https://github.com/Umeshexe/Battery-Health-Management-System/blob/main/XAI.ipynb
 
 BMS Breakdown
 https://circuitdigest.com/electronic-circuits/lithium-ion-battery-management-and-protection-module-bms-teardown-schematics-parts-list-and-working
+
+ML dataset
+https://archive.ics.uci.edu/
