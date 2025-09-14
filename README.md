@@ -14,3 +14,6 @@ https://circuitdigest.com/electronic-circuits/lithium-ion-battery-management-and
 
 ML dataset
 https://archive.ics.uci.edu/
+
+Active balancer
+https://www.pcbway.com/project/shareproject/Let_s_Add_an_Active_Balancer_to_the_Electric_Bike_Battery_19c12752.html
