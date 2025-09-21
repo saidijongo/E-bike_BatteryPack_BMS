@@ -17,3 +17,6 @@ https://archive.ics.uci.edu/
 
 Active balancer
 https://www.pcbway.com/project/shareproject/Let_s_Add_an_Active_Balancer_to_the_Electric_Bike_Battery_19c12752.html
+
+c
+https://sourceforge.net/projects/mingw/
