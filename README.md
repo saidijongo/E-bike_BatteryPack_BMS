@@ -20,3 +20,7 @@ https://www.pcbway.com/project/shareproject/Let_s_Add_an_Active_Balancer_to_the_
 
 c
 https://sourceforge.net/projects/mingw/
+
+
+2026
+https://github.com/GyrocopterLLC/ebike-g4
