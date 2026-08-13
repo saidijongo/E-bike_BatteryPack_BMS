@@ -24,3 +24,6 @@ https://sourceforge.net/projects/mingw/
 
 2026
 https://github.com/GyrocopterLLC/ebike-g4
+
+iphone charger
+https://adamw88.github.io/iPhone-Charger-Demystified/
