@@ -27,3 +27,7 @@ https://github.com/GyrocopterLLC/ebike-g4
 
 iphone charger
 https://adamw88.github.io/iPhone-Charger-Demystified/
+
+Ebike controllers
+https://avdweb.nl/solar-bike/electronics/ku63-motor-controller
+https://github.com/OpenSourceEBike/TSDZ2-Smart-EBike/tree/master/src
