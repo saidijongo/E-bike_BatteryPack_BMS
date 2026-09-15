@@ -35,3 +35,4 @@ https://github.com/OpenSourceEBike/TSDZ2-Smart-EBike/tree/master/src
 https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ApplicationNotes/ApplicationNotes/AN5709-e-Bike-Traction-Motor-Control-Reference-Design-DS00005709.pdf
 
 https://www.scribd.com/document/464589893/1-ISTrd0185v010-IST7918-20170523-pdf
+https://www.egr.msu.edu/classes/ece480/capstone/fall15/group09/reports/finalreport.pdf
