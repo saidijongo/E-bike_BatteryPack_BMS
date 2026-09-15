@@ -36,3 +36,6 @@ https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ApplicationNotes
 
 https://www.scribd.com/document/464589893/1-ISTrd0185v010-IST7918-20170523-pdf
 https://www.egr.msu.edu/classes/ece480/capstone/fall15/group09/reports/finalreport.pdf
+
+E-scooter schem
+https://github.com/vedderb/bldc-hardware
