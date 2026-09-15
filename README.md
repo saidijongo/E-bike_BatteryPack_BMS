@@ -39,3 +39,5 @@ https://www.egr.msu.edu/classes/ece480/capstone/fall15/group09/reports/finalrepo
 
 E-scooter schem
 https://github.com/vedderb/bldc-hardware
+
+https://www.ti.com/lit/df/tidry82a/tidry82a.pdf?ts=1789436139289
