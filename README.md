@@ -31,3 +31,5 @@ https://adamw88.github.io/iPhone-Charger-Demystified/
 Ebike controllers
 https://avdweb.nl/solar-bike/electronics/ku63-motor-controller
 https://github.com/OpenSourceEBike/TSDZ2-Smart-EBike/tree/master/src
+
+https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ApplicationNotes/ApplicationNotes/AN5709-e-Bike-Traction-Motor-Control-Reference-Design-DS00005709.pdf
